@@ -1,0 +1,55 @@
+/* src/NavBar.css */
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600&display=swap');
+
+.navbar {
+  background-color: #343a40;
+}
+
+.navbar-brand {
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+
+.brand-name {
+  color: #ffffff;
+}
+
+.nav-link {
+  font-family: 'Nunito', sans-serif;
+  font-size: 1rem;
+  color: #ffffff;
+  transition: color 0.2s;
+}
+
+.nav-link:hover {
+  color: #007bff;
+}
+
+.form-control {
+  border-radius: 20px;
+}
+
+.btn-outline-light {
+  border-radius: 20px;
+  color: #ffffff;
+}
+
+.btn-outline-light:hover {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.fas {
+  font-size: 1.2rem;
+  color: #ffffff;
+}
+
+.navbar-toggler-icon {
+  color: #ffffff;
+}
+
+.navbar-light .navbar-toggler {
+  border-color: rgba(255, 255, 255, 0.25);
+}

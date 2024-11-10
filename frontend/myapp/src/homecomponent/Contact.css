@@ -1,0 +1,22 @@
+/* src/Contact.css */
+.section-title {
+    font-family: 'Nunito', sans-serif;
+    font-weight: bold;
+    color: #007bff;
+    margin-bottom: 1rem;
+  }
+  
+  .section-description {
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .form-control {
+    border-radius: 20px;
+  }
+  
+  .btn {
+    border-radius: 20px;
+  }
+  

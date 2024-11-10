@@ -1,0 +1,44 @@
+/* src/Login.css */
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .login-form {
+    max-width: 400px;
+  }
+  
+  .login-form .form-control {
+    border-radius: 20px;
+  }
+  
+  .login-form .btn {
+    border-radius: 20px;
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .login-form .btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .form-title {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  /* src/Login.css */
+.login-form img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+  }
+.login-card1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    font-weight: bold;
+    font-style: italic;
+}

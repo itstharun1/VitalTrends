@@ -1,0 +1,42 @@
+/* src/Signup.css */
+body {
+    background-color: #f8f9fa;
+  }
+  
+  .login-form img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+  }
+  
+  .form-title {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
+  .form-control {
+    border-radius: 20px;
+  }
+  
+  .btn {
+    border-radius: 20px;
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .btn:hover {
+    background-color: #0056b3;
+  }
+  
+
+.signupcard{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    font-weight: bold;
+    font-style: italic;
+}
